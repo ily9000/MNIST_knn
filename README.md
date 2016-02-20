@@ -1,4 +1,4 @@
-Implementation of Gaussian Naive Bayes and KNN for digit recoginition
+##### Implementation of Gaussian Naive Bayes and KNN for digit recoginition
 
 We use the MNIST digits dataset to show the results of 2 classifiers KNN and Gaussian Naive Bayes that were coded from scratch using numpy and scipy.
 
