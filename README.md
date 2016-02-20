@@ -1,4 +1,4 @@
-##### Implementation of Gaussian Naive Bayes and KNN for digit recoginition
+-> #### Implementation of Gaussian Naive Bayes and KNN for digit recoginition <-
 
 I coded from scratch the Gaussian Naive Bayes and KNN algorithm to classify digits in the MNIST data set.
 
