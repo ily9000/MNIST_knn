@@ -1,1 +1,1 @@
-![](images/stdev.png?raw=true)
+![](images/NB_stdev.png?raw=true)
