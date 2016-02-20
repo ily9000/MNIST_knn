@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import logging
 import naive_bayes as nb
+import matplotlib.pyplot as plt
 import load_data
 
 def plot_params(param, fname):
