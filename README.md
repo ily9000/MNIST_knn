@@ -11,4 +11,4 @@ Here are the means of the pixels for each digit:
 Here are the standard deviations of the pixels for each digit:
 ![](images/NB_stdev.png?raw=true)
 
-The MNIST data set consists of 72,000. We split 57,600 training images and 14,400 test images. The algorithm is able to learn the parameters and make the predictions in less than a minute.
+The MNIST data set consists of 72,000. We split 57,600 training images and 14,400 test images. The algorithm is able to learn the parameters and make the predictions in less than a minute. Gaussian Naive Bayes achieves a classification rate of .57.
