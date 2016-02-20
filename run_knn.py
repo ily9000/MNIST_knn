@@ -8,7 +8,7 @@ from load_data import digits_data
 from KNeighborsClassifier import KNN
 
 def mnist_digit_recognition():
-	''' predict digits for the kaggle MNIST challenge and write to csv '''
+	''' predict digits for the MNIST data set'''
 
 	data = digits_data()
 	data.fetch_train()
