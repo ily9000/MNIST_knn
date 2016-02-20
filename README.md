@@ -2,9 +2,9 @@
 
 I coded from scratch the Gaussian Naive Bayes and KNN algorithm to classify digits in the MNIST data set.
 
-By assuming conditional independce of the pixels given the digit, the Naive Bayes classifier is able to learn the Gaussian distribution parameters (mean, standard deviation) for each pixel of each digit.
+By assuming conditional independce of the pixels given the digit, the Naive Bayes classifier is able to learn the Gaussian distribution parameters (mean, standard deviation) for each pixel of each digit. A plot of the parameters that were learned is below.
 
-Means of the pixels for each digit:
+Here are the means of the pixels for each digit:
 ![](images/NB_means.png?raw=true)
 
 
